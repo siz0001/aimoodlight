@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="3150.008" height="2100.009"
+	 viewBox="0 0 3150.008 2100.009" overflow="visible" enable-background="new 0 0 3150.008 2100.009" xml:space="preserve">
+<rect x="0.004" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="3150" height="2100"/>
+<g>
+	<defs>
+		<path id="XMLID_1_" d="M3150.004,256.504v814.881c-224.879,20.306-315.733-27.057-506.414-27.057
+			c-214.602,0-252.924-52-402.378-132s-26.825-116-13.007-164.175c13.819-48.175,70.489-75.825,127.972-147.825
+			s130.294-72,180.112-96s114.965-40,180.111-64s130.294-160,180.111-204c49.818-44,53.651-24,145.623-32
+			C3106.886,198.697,3113.505,234.699,3150.004,256.504"/>
+	</defs>
+	<clipPath id="XMLID_42_">
+		<use xlink:href="#XMLID_1_" />
+	</clipPath>
+	<linearGradient id="XMLID_43_" gradientUnits="userSpaceOnUse" x1="2607.957" y1="608.9482" x2="2141.1965" y2="-585.1008">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#B3B3B3"/>
+	</linearGradient>
+	<rect x="2091.758" y="192.329" clip-path="url(#XMLID_42_)" fill="url(#XMLID_43_)" width="1058.246" height="899.362"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_4_" d="M0.004,1268.329V171.741c46.44,0.131,88.462,3.488,136.423-7.412c88-20,164-36,200,8c36,44,134,58,132,102
+			c-2,44-22,38-26,58c-4,20,12,34,56,42c44,8,48,14,104,8c56-6,122-42,158-32s74,64,104,76c30,12,54,14,108,20c54,6,102-14,168,0
+			c66,14,110,52,146,60c36,8,48,18,94,16c46-2,280,174.001,408,170.001c128.001-4,85.423-55.521,181.203,71.316
+			c95.779,126.838,194.797,128.684,214.797,160.684c20.001,32,115.056,104.895-132.996,208.021
+			c-248.052,103.127,0.563,203.281-669.221,225.631C712.428,1380.329,343.58,1340.329,0.004,1268.329"/>
+	</defs>
+	<clipPath id="XMLID_44_">
+		<use xlink:href="#XMLID_4_" />
+	</clipPath>
+	<linearGradient id="XMLID_45_" gradientUnits="userSpaceOnUse" x1="1200.1587" y1="863.2358" x2="315.7997" y2="-1047.1622">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#B3B3B3"/>
+	</linearGradient>
+	<rect x="0.004" y="128.329" clip-path="url(#XMLID_44_)" fill="url(#XMLID_45_)" width="2299.479" height="1252"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_7_" d="M3150.004,707.352V2100H1334.045c-45.703-505.779,283.699-1284.648,301.387-1284.648c24,0,88,2,120,2
+			s88-28,106-36s20-12,48-24c28-12,66,10,80,14c14,4,82.001-14,82.001-14s20,0,56-8c36-8,42-6,66-6c23.999,0,44,4,72,20
+			c27.999,16,53.182,16.727,72,24c18.817,7.273,68,40,112,72s94,12,170,12s104-16,164-44s104-68,130-88c26-20,58-8,82-14
+			c24-6,40-10,82-22C3119.434,691.353,3103.434,703.352,3150.004,707.352"/>
+	</defs>
+	<clipPath id="XMLID_46_">
+		<use xlink:href="#XMLID_7_" />
+	</clipPath>
+	<linearGradient id="XMLID_47_" gradientUnits="userSpaceOnUse" x1="2219.1719" y1="1031.0996" x2="2219.1848" y2="4693.416">
+		<stop  offset="0" style="stop-color:#808080"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="1288.342" y="691.353" clip-path="url(#XMLID_46_)" fill="url(#XMLID_47_)" width="1861.662" height="1408.647"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_10_" d="M2743.433,2100H0.004V931.045c368.619-0.227,977.372-4.985,1044.47-33.496
+			c96.956-41.198,112.957-41.198,128.956-47.198c16-6,20-4,54-20c34-16,62.004-10,70.002-21c7.998-11,0-12,30-14c30-2,15,9,50-2
+			c35-11,27-5,58-17s37-21,58-29c21-8,31-15,42-21c11-6,13-5,26-4s34,12,52,7s29,9,49,21s15,11,36,16s14,11,39,19c25,8,19,10,37,10
+			s26-2,41,6c15,8,28.001,20,44,19c16-1,15,1,46,12c31,11,39,12,61,24c22,12,16,16,45,21s30.956-2.736,53.979,13.132
+			C2088.432,906.352,3039.433,1584.647,2743.433,2100"/>
+	</defs>
+	<clipPath id="XMLID_48_">
+		<use xlink:href="#XMLID_10_" />
+	</clipPath>
+	<linearGradient id="XMLID_49_" gradientUnits="userSpaceOnUse" x1="1519.7183" y1="962.8203" x2="1519.7181" y2="5029.1162">
+		<stop  offset="0" style="stop-color:#4D4D4D"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="0.004" y="720.351" clip-path="url(#XMLID_48_)" fill="url(#XMLID_49_)" width="3039.429" height="1379.649"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_13_" d="M2958.825,2100H0.004V776.825c37.271,3.329,69.775,8.761,85.425,17.526
+			c50,28,127.998,58.006,164.999,36.003c37.001-22.003,117.001-46.003,117.001-46.003s26-16,48-16c22,0,36-16,56-26
+			c20-10,30-20,42-30s32-28,54-28s36-12,66,8c30,20,54,36,90,48s60,30,74,40s36,30,72,34s48,6,72,6s28-6,78-6s78,2,110,2
+			s94-18,110-20s28-6,66,2s84,20,104,28s681.001,326.001,1003.001,618.003C2612.372,1625.668,2844.272,1878.684,2958.825,2100"/>
+	</defs>
+	<clipPath id="XMLID_50_">
+		<use xlink:href="#XMLID_13_" />
+	</clipPath>
+	<linearGradient id="XMLID_51_" gradientUnits="userSpaceOnUse" x1="1479.4136" y1="946.8896" x2="1479.4261" y2="4512.6719">
+		<stop  offset="0" style="stop-color:#333333"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="0.004" y="672.35" clip-path="url(#XMLID_50_)" fill="url(#XMLID_51_)" width="2958.821" height="1427.65"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_16_" d="M3150.004,839.586V2100H1286.665c90.446-395.912,449.051-855.593,491.02-858.63
+			c68.176-4.935,71.747-77.021,107.747-81.021s136-2,166-28s78-12,142-34s58-24,98-46s46-42,68-86c22-44,48-36,70-44s86-46,140-88
+			s88-68,122-88c34-20,40-6,68-6s32-2,56-20s44-2,70-2s24,2,42,6s22,10,52,32c30,22,40,28,70,40c30,12,32,12,84,36
+			C3139.006,834.923,3144.533,837.333,3150.004,839.586"/>
+	</defs>
+	<clipPath id="XMLID_52_">
+		<use xlink:href="#XMLID_16_" />
+	</clipPath>
+	<linearGradient id="XMLID_53_" gradientUnits="userSpaceOnUse" x1="2218.334" y1="989.4395" x2="2218.3337" y2="5258.1587">
+		<stop  offset="0" style="stop-color:#666666"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="1286.665" y="702.35" clip-path="url(#XMLID_52_)" fill="url(#XMLID_53_)" width="1863.339" height="1397.65"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_19_" d="M3150.004,969.181V2100h-3150V771.122c33.522-2.005,78.394-4.236,114.601-4.424
+			c66.821-0.346,92.822-2.346,138.821,13.654c46,16,148,40,168,46s66,4,102,8s64.005-23.996,117.002,10.002
+			s64.124,29.453,118.998,49.998c54.875,20.544,94,16,124,16c30,0,48-16,94-16s116,8,134,8s30,10,50,10c20,0,54,0,66-6
+			c12-6,2-10,48-8c46,2,64,8,84,8c20,0,48-12,72-16c24-4,40-30,92-28c52,2,62,12,82,14c20,2,84.001-12,130.001-14c46-2,30-12,76,0
+			s30,4,66,12s64,4,84,12c20,8,148,4,176,0s54-16,80-30s88.001-59,98.001-71s-5-17,27-20c32-3,37-10,53-10s14,5,27,10
+			s30.001,6,48.001,6s28.999,3,46.999-1c18-4,19-13,36-8c17.001,5,34.001,3,47,14c13,11,13.001,42.001,53.001,46.001s22,0,102,10
+			s242,52,294,88C3080.651,941.967,3119.08,960.693,3150.004,969.181"/>
+	</defs>
+	<clipPath id="XMLID_54_">
+		<use xlink:href="#XMLID_19_" />
+	</clipPath>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#333333" points="3150.008,755.354 
+		3150.007,1011.832 0.003,1011.823 0.004,755.344 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#343434" points="3150.007,1007.483 
+		3150.007,1020.531 0.003,1020.521 0.003,1007.474 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#343434" points="3150.007,1016.182 
+		3150.007,1029.229 0.003,1029.22 0.003,1016.172 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#353535" points="3150.007,1024.88 
+		3150.007,1037.928 0.003,1037.919 0.003,1024.871 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#363636" points="3150.007,1033.579 
+		3150.007,1046.627 0.003,1046.617 0.003,1033.569 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#373737" points="3150.007,1042.277 
+		3150.007,1055.325 0.003,1055.316 0.003,1042.268 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#373737" points="3150.007,1050.976 
+		3150.007,1064.024 0.003,1064.015 0.003,1050.967 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#383838" points="3150.007,1059.675 
+		3150.007,1072.723 0.003,1072.713 0.003,1059.666 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#393939" points="3150.007,1068.373 
+		3150.007,1081.421 0.003,1081.412 0.003,1068.364 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#393939" points="3150.007,1077.072 
+		3150.006,1090.12 0.003,1090.11 0.003,1077.063 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3A3A3A" points="3150.006,1085.771 
+		3150.006,1098.818 0.003,1098.81 0.003,1085.762 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3B3B3B" points="3150.006,1094.47 
+		3150.006,1107.518 0.003,1107.508 0.003,1094.46 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3C3C3C" points="3150.006,1103.168 
+		3150.006,1116.216 0.003,1116.207 0.003,1103.158 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3C3C3C" points="3150.006,1111.866 
+		3150.006,1124.914 0.003,1124.905 0.003,1111.857 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3D3D3D" points="3150.006,1120.565 
+		3150.006,1133.613 0.003,1133.604 0.003,1120.556 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3E3E3E" points="3150.006,1129.264 
+		3150.006,1142.312 0.003,1142.303 0.003,1129.255 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3E3E3E" points="3150.006,1137.963 
+		3150.006,1151.01 0.003,1151.001 0.003,1137.953 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#3F3F3F" points="3150.006,1146.661 
+		3150.006,1159.709 0.003,1159.7 0.003,1146.651 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#404040" points="3150.006,1155.359 
+		3150.006,1168.407 0.003,1168.398 0.003,1155.351 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#414141" points="3150.006,1164.059 
+		3150.006,1177.106 0.003,1177.097 0.003,1164.049 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#414141" points="3150.006,1172.757 
+		3150.006,1185.805 0.003,1185.796 0.003,1172.748 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#424242" points="3150.006,1181.455 
+		3150.006,1194.504 0.003,1194.494 0.003,1181.446 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#434343" points="3150.006,1190.154 
+		3150.006,1203.202 0.003,1203.193 0.003,1190.146 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#434343" points="3150.006,1198.853 
+		3150.006,1211.9 0.002,1211.892 0.003,1198.844 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#444444" points="3150.006,1207.552 
+		3150.006,1220.6 0.002,1220.59 0.002,1207.542 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#454545" points="3150.006,1216.25 
+		3150.006,1229.298 0.002,1229.289 0.002,1216.241 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#464646" points="3150.006,1224.949 
+		3150.006,1237.997 0.002,1237.987 0.002,1224.939 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#464646" points="3150.006,1233.647 
+		3150.006,1246.695 0.002,1246.686 0.002,1233.639 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#474747" points="3150.006,1242.346 
+		3150.006,1255.395 0.002,1255.385 0.002,1242.337 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#484848" points="3150.006,1251.045 
+		3150.006,1264.093 0.002,1264.083 0.002,1251.035 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#484848" points="3150.006,1259.743 
+		3150.006,1272.791 0.002,1272.782 0.002,1259.734 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#494949" points="3150.006,1268.442 
+		3150.006,1281.49 0.002,1281.48 0.002,1268.433 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4A4A4A" points="3150.006,1277.141 
+		3150.006,1290.188 0.002,1290.18 0.002,1277.131 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4B4B4B" points="3150.006,1285.84 
+		3150.006,1298.887 0.002,1298.878 0.002,1285.83 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4B4B4B" points="3150.006,1294.538 
+		3150.006,1307.586 0.002,1307.576 0.002,1294.528 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4C4C4C" points="3150.006,1303.236 
+		3150.006,1316.284 0.002,1316.275 0.002,1303.228 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4D4D4D" points="3150.006,1311.936 
+		3150.006,1324.983 0.002,1324.974 0.002,1311.926 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4D4D4D" points="3150.006,1320.634 
+		3150.006,1333.682 0.002,1333.673 0.002,1320.625 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4E4E4E" points="3150.006,1329.332 
+		3150.006,1342.38 0.002,1342.371 0.002,1329.323 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#4F4F4F" points="3150.006,1338.031 
+		3150.006,1351.079 0.002,1351.07 0.002,1338.021 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#505050" points="3150.006,1346.729 
+		3150.006,1359.777 0.002,1359.769 0.002,1346.721 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#505050" points="3150.006,1355.429 
+		3150.006,1368.477 0.002,1368.467 0.002,1355.419 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#515151" points="3150.006,1364.127 
+		3150.006,1377.175 0.002,1377.166 0.002,1364.118 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#525252" points="3150.006,1372.825 
+		3150.006,1385.874 0.002,1385.864 0.002,1372.816 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#525252" points="3150.006,1381.524 
+		3150.006,1394.572 0.002,1394.563 0.002,1381.516 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#535353" points="3150.006,1390.223 
+		3150.006,1403.271 0.002,1403.262 0.002,1390.214 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#545454" points="3150.006,1398.922 
+		3150.006,1411.97 0.002,1411.96 0.002,1398.912 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#555555" points="3150.006,1407.62 
+		3150.006,1420.668 0.002,1420.659 0.002,1407.611 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#555555" points="3150.006,1416.318 
+		3150.006,1429.367 0.002,1429.357 0.002,1416.31 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#565656" points="3150.006,1425.018 
+		3150.006,1438.065 0.002,1438.057 0.002,1425.008 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#575757" points="3150.006,1433.717 
+		3150.006,1446.764 0.002,1446.755 0.002,1433.707 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#575757" points="3150.006,1442.414 
+		3150.006,1455.463 0.002,1455.453 0.002,1442.405 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#585858" points="3150.006,1451.113 
+		3150.006,1464.161 0.002,1464.152 0.002,1451.104 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#595959" points="3150.006,1459.813 
+		3150.005,1472.859 0.002,1472.851 0.002,1459.803 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5A5A5A" points="3150.006,1468.511 
+		3150.005,1481.559 0.002,1481.55 0.002,1468.501 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5A5A5A" points="3150.005,1477.209 
+		3150.005,1490.257 0.002,1490.248 0.002,1477.2 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5B5B5B" points="3150.005,1485.908 
+		3150.005,1498.956 0.001,1498.947 0.002,1485.898 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5C5C5C" points="3150.005,1494.606 
+		3150.005,1507.654 0.001,1507.646 0.002,1494.598 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5C5C5C" points="3150.005,1503.305 
+		3150.005,1516.354 0.001,1516.344 0.001,1503.296 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5D5D5D" points="3150.005,1512.004 
+		3150.005,1525.052 0.001,1525.043 0.001,1511.995 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5E5E5E" points="3150.005,1520.702 
+		3150.005,1533.751 0.001,1533.741 0.001,1520.693 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5F5F5F" points="3150.005,1529.401 
+		3150.005,1542.449 0.001,1542.439 0.001,1529.393 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#5F5F5F" points="3150.005,1538.1 
+		3150.005,1551.147 0.001,1551.139 0.001,1538.091 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#606060" points="3150.005,1546.799 
+		3150.005,1559.847 0.001,1559.837 0.001,1546.789 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#616161" points="3150.005,1555.497 
+		3150.005,1568.545 0.001,1568.535 0.001,1555.488 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#616161" points="3150.005,1564.195 
+		3150.005,1577.244 0.001,1577.234 0.001,1564.187 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#626262" points="3150.005,1572.895 
+		3150.005,1585.942 0.001,1585.934 0.001,1572.885 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#636363" points="3150.005,1581.593 
+		3150.005,1594.641 0.001,1594.632 0.001,1581.584 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#646464" points="3150.005,1590.292 
+		3150.005,1603.34 0.001,1603.33 0.001,1590.282 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#646464" points="3150.005,1598.99 
+		3150.005,1612.038 0.001,1612.029 0.001,1598.98 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#656565" points="3150.005,1607.688 
+		3150.005,1620.736 0.001,1620.728 0.001,1607.68 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#666666" points="3150.005,1616.388 
+		3150.005,1629.436 0.001,1629.427 0.001,1616.378 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#666666" points="3150.005,1625.086 
+		3150.005,1638.134 0.001,1638.125 0.001,1625.077 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#676767" points="3150.005,1633.785 
+		3150.005,1646.833 0.001,1646.823 0.001,1633.775 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#686868" points="3150.005,1642.483 
+		3150.005,1655.531 0.001,1655.522 0.001,1642.475 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#696969" points="3150.005,1651.182 
+		3150.005,1664.23 0.001,1664.221 0.001,1651.173 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#696969" points="3150.005,1659.881 
+		3150.004,1672.929 0.001,1672.92 0.001,1659.872 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6A6A6A" points="3150.004,1668.579 
+		3150.004,1681.627 0.001,1681.618 0.001,1668.57 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6B6B6B" points="3150.004,1677.278 
+		3150.004,1690.326 0.001,1690.316 0.001,1677.269 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6B6B6B" points="3150.004,1685.977 
+		3150.004,1699.024 0.001,1699.016 0.001,1685.968 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6C6C6C" points="3150.004,1694.676 
+		3150.004,1707.724 0.001,1707.714 0.001,1694.666 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6D6D6D" points="3150.004,1703.374 
+		3150.004,1716.422 0.001,1716.412 0.001,1703.365 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6E6E6E" points="3150.004,1712.072 
+		3150.004,1725.121 0.001,1725.111 0.001,1712.063 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6E6E6E" points="3150.004,1720.771 
+		3150.004,1733.819 0.001,1733.81 0.001,1720.762 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#6F6F6F" points="3150.004,1729.47 
+		3150.004,1742.518 0.001,1742.509 0.001,1729.461 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#707070" points="3150.004,1738.168 
+		3150.004,1751.217 0.001,1751.207 0.001,1738.159 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#707070" points="3150.004,1746.867 
+		3150.004,1759.915 0.001,1759.906 0.001,1746.857 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#717171" points="3150.004,1755.566 
+		3150.004,1768.613 0.001,1768.604 0.001,1755.557 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#727272" points="3150.004,1764.265 
+		3150.004,1777.313 0.001,1777.303 0.001,1764.255 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#737373" points="3150.004,1772.963 
+		3150.004,1786.011 0.001,1786.002 0.001,1772.954 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#737373" points="3150.004,1781.662 
+		3150.004,1794.71 0.001,1794.7 0.001,1781.652 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#747474" points="3150.004,1790.36 
+		3150.004,1803.408 0.001,1803.399 0.001,1790.352 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#757575" points="3150.004,1799.059 
+		3150.004,1812.107 0.001,1812.098 0.001,1799.05 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#757575" points="3150.004,1807.758 
+		3150.004,1820.806 0.001,1820.797 0.001,1807.748 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#767676" points="3150.004,1816.456 
+		3150.004,1829.504 0.001,1829.495 0.001,1816.447 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#777777" points="3150.004,1825.155 
+		3150.004,1838.203 0.001,1838.193 0.001,1825.146 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#787878" points="3150.004,1833.854 
+		3150.004,1846.901 0.001,1846.893 0.001,1833.845 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#787878" points="3150.004,1842.552 
+		3150.004,1855.601 0.001,1855.591 0.001,1842.543 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#797979" points="3150.004,1851.251 
+		3150.004,1864.299 0.001,1864.289 0.001,1851.242 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7A7A7A" points="3150.004,1859.949 
+		3150.004,1872.997 0.001,1872.988 0.001,1859.94 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7A7A7A" points="3150.004,1868.648 
+		3150.004,1881.696 0.001,1881.687 0.001,1868.639 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7B7B7B" points="3150.004,1877.347 
+		3150.004,1890.395 0,1890.386 0.001,1877.338 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7C7C7C" points="3150.004,1886.046 
+		3150.004,1899.094 0,1899.084 0,1886.036 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7D7D7D" points="3150.004,1894.744 
+		3150.004,1907.792 0,1907.783 0,1894.734 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7D7D7D" points="3150.004,1903.442 
+		3150.004,1916.49 0,1916.481 0,1903.434 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7E7E7E" points="3150.004,1912.142 
+		3150.004,1925.189 0,1925.18 0,1912.132 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7F7F7F" points="3150.004,1920.84 
+		3150.004,1933.888 0,1933.879 0,1920.831 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#7F7F7F" points="3150.004,1929.539 
+		3150.004,1942.587 0,1942.577 0,1929.529 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#808080" points="3150.004,1938.237 
+		3150.004,1951.285 0,1951.276 0,1938.228 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#818181" points="3150.004,1946.936 
+		3150.004,1959.983 0,1959.975 0,1946.927 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#828282" points="3150.004,1955.635 
+		3150.004,1968.683 0,1968.673 0,1955.625 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#828282" points="3150.004,1964.333 
+		3150.004,1977.381 0,1977.372 0,1964.324 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#838383" points="3150.004,1973.031 
+		3150.004,1986.08 0,1986.07 0,1973.022 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#848484" points="3150.004,1981.73 
+		3150.004,1994.778 0,1994.77 0,1981.722 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#848484" points="3150.004,1990.429 
+		3150.004,2003.477 0,2003.468 0,1990.42 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#858585" points="3150.004,1999.128 
+		3150.004,2012.176 0,2012.166 0,1999.118 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#868686" points="3150.004,2007.826 
+		3150.004,2020.874 0,2020.865 0,2007.817 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#878787" points="3150.004,2016.525 
+		3150.004,2029.573 0,2029.563 0,2016.516 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#878787" points="3150.004,2025.224 
+		3150.004,2038.271 0,2038.263 0,2025.215 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#888888" points="3150.004,2033.922 
+		3150.004,2046.971 0,2046.961 0,2033.913 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#898989" points="3150.004,2042.621 
+		3150.004,2055.669 0,2055.66 0,2042.611 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#898989" points="3150.004,2051.319 
+		3150.004,2064.367 0,2064.358 0,2051.311 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#8A8A8A" points="3150.004,2060.019 
+		3150.004,2073.066 0,2073.057 0,2060.009 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#8B8B8B" points="3150.004,2068.717 
+		3150.004,2081.765 0,2081.756 0,2068.707 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#8C8C8C" points="3150.004,2077.416 
+		3150.004,2090.463 0,2090.454 0,2077.406 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#8C8C8C" points="3150.004,2086.114 
+		3150.004,2099.162 0,2099.152 0,2086.105 	"/>
+	<polyline clip-path="url(#XMLID_54_)" fill-rule="evenodd" clip-rule="evenodd" fill="#8D8D8D" points="3150.004,2094.813 
+		3150.004,2100.009 0,2100 0,2094.804 	"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_21_" d="M3150.004,1114.682V2100H1366.746c44.792-90.639,175.407-172.954,313.745-336.574
+			c229.064-270.928,452.937-489.072,473.671-501.016c20.734-11.942,75.266-22.057,101.266-38.057s42-40,54-62s20-22,34-22s52,6,80-4
+			s36-18,62-2s86,38,108,46s65.187,33.338,85.688,42.831s41.483-3.775,77.027-0.341c35.543,3.434,171.284,7.51,203.405-11.506
+			c32.122-19.016,95.879-40.984,139.879-68.984C3123.989,1126.724,3136.89,1119.819,3150.004,1114.682"/>
+	</defs>
+	<clipPath id="XMLID_55_">
+		<use xlink:href="#XMLID_21_" />
+	</clipPath>
+	<linearGradient id="XMLID_56_" gradientUnits="userSpaceOnUse" x1="2258.374" y1="1299.4307" x2="2258.3833" y2="3898.2036">
+		<stop  offset="0" style="stop-color:#1A1A1A"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="1366.746" y="1114.682" clip-path="url(#XMLID_55_)" fill="url(#XMLID_56_)" width="1783.258" height="985.318"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_24_" d="M2639.534,2100H0.004v-868.173c473.104-32.925,981.425-113.476,981.425-113.476c20,6,84.473,22.49,130,6
+			s82-36,112-48c30-12,32-16,46-16s62,10,80,6s18-44,84-22c66,22,82,36,116,36c34,0,56,0,78,0c22.001,0,46-36,78-46
+			c32-10,104,6,140,14c36,8,128,14,154.001,6c26-8,100,28.001,138,60c38,32,95.682,120.434,95.682,120.434
+			S2488.008,1694.829,2639.534,2100"/>
+	</defs>
+	<clipPath id="XMLID_57_">
+		<use xlink:href="#XMLID_24_" />
+	</clipPath>
+	<linearGradient id="XMLID_58_" gradientUnits="userSpaceOnUse" x1="1350.7441" y1="1039.4409" x2="1233.3137" y2="3017.4209">
+		<stop  offset="0" style="stop-color:#1A1A1A"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="0.004" y="1022.352" clip-path="url(#XMLID_57_)" fill="url(#XMLID_58_)" width="2639.53" height="1077.648"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_27_" d="M2583.107,2100H0.004V666.354l32.424,10c0,0,28,30,40,52s72,58,90,70c18,12,48,22,88,32s52,10,82,18
+			s76,6,92,8c16,2,62,4,82,10c20,6,18,4,62-8c44-12,36-14,72-14s16-12,46-4c30,8,42,10,56,16s10,10,28,24s18,26,48,36
+			c30,10,54,26,84,46c30,20,46,26,68,36c22,10,66,49,84,53c18,4,24,1.001,41,10.001s39,20.999,51,33.999s13,19.001,24,21.001
+			c11,1.999,59,25.999,69,32.999c10,7.001,105,31.002,131.001,39.002c26,7.999,52,13,66,14c14,0.999,100,8,110,8s41-0.001,57,2.999
+			c16,3.001,41.206-2.472,57,8s22,7,34,14c12,7.001,22,15,24,27C1719.924,1271.317,2285.268,1821.816,2583.107,2100"/>
+	</defs>
+	<clipPath id="XMLID_59_">
+		<use xlink:href="#XMLID_27_" />
+	</clipPath>
+	<linearGradient id="XMLID_60_" gradientUnits="userSpaceOnUse" x1="1291.5552" y1="935.1694" x2="1291.5551" y2="3256.3298">
+		<stop  offset="0" style="stop-color:#1A1A1A"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="0.004" y="666.354" clip-path="url(#XMLID_59_)" fill="url(#XMLID_60_)" width="2583.104" height="1433.646"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_30_" d="M2383.117,2100H0.004v-631.508c162.798-75.346,300.568-135.794,332.425-140.138c88-12,76-12,288-12
+			s496-36,544-56s114-84,114-84s16-18,56-20s40-4,86-4s54-10,102,0s60,18,98,20s38-6,62,6s16,14,44,18s123,0,141,1s25.001,1,40-6
+			c15-7,21.001-15,46-6c25,9,56,11,70,14s31.559,10.467,41.279,21.733s283.722,107.266,347.722,223.266s24,188.418,24,340.001
+			C2436.431,1909.184,2458.11,2010.162,2383.117,2100"/>
+	</defs>
+	<clipPath id="XMLID_61_">
+		<use xlink:href="#XMLID_30_" />
+	</clipPath>
+	<linearGradient id="XMLID_62_" gradientUnits="userSpaceOnUse" x1="1238.2173" y1="1326.4307" x2="1238.2172" y2="3837.5591">
+		<stop  offset="0" style="stop-color:#1A1A1A"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="0.004" y="1142.354" clip-path="url(#XMLID_61_)" fill="url(#XMLID_62_)" width="2476.427" height="957.646"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_33_" d="M3150.004,1244.436V2100H1704.43c9.475-45.017,24.26-106.651,0.001-199.646c-72-276,36-268,48-376
+			s930.002-293.998,945.325-307.127c15.324-13.129,56.177-10.371,69.177-12.871s45-4,80.5-6.5c35.5-2.501,48.5,2,69.001,7
+			c20.5,5,86.5,11,86.5,11s7.5-11.5,11.5-15s23-0.5,32-0.5s33.998,18,33.998,18
+			C3115.654,1225.399,3133.498,1233.824,3150.004,1244.436"/>
+	</defs>
+	<clipPath id="XMLID_63_">
+		<use xlink:href="#XMLID_33_" />
+	</clipPath>
+	<linearGradient id="XMLID_64_" gradientUnits="userSpaceOnUse" x1="2391.2168" y1="1366.4297" x2="2391.2251" y2="3747.7046">
+		<stop  offset="0" style="stop-color:#1A1A1A"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="1632.431" y="1195.354" clip-path="url(#XMLID_63_)" fill="url(#XMLID_64_)" width="1517.573" height="904.646"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_36_" d="M3150.004,1302.355V2100h-3150v-544.793c31.205,2.643,62.224,3.977,92.427,3.148c292-8,496-20,600-60
+			s144-48,192-60c48-12,76-12,168-12c92,0,140-12,232-36c92-24,140-48,184-88c44-40,108-44,180-64s64,0,144,4c80.001,4,92,0,172,0
+			c80.001,0,68-20,160.001-36c92-16,140,0,216,0c75.999,0,88,0,180,0s220,16,276,20S3150.004,1302.355,3150.004,1302.355"/>
+	</defs>
+	<clipPath id="XMLID_65_">
+		<use xlink:href="#XMLID_36_" />
+	</clipPath>
+	<linearGradient id="XMLID_66_" gradientUnits="userSpaceOnUse" x1="1575.0034" y1="1199.2402" x2="1575.0033" y2="3608.7703">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<rect x="0.004" y="1190.355" clip-path="url(#XMLID_65_)" fill="url(#XMLID_66_)" width="3150" height="909.645"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_39_" d="M3150.004,1670.639V2100h-3150v-746.853c50.952-9.454,129.689-22.79,168.424-22.79c60,0,64,16,120,32
+			s48,8,128,20s112,44,176,48c64,4,108,20,168,32c60,12,60,44,124,64s228,80.001,332,86c104,6,356,46.001,456,54
+			c100,8,266,42,342,44c76,2.001,390.001,26,462.001,18s192.001,5.998,258.001,7.999c66.001,2,166-6,230-22
+			C3009.589,1703.066,3087.604,1679.83,3150.004,1670.639"/>
+	</defs>
+	<clipPath id="XMLID_67_">
+		<use xlink:href="#XMLID_39_" />
+	</clipPath>
+	<linearGradient id="XMLID_68_" gradientUnits="userSpaceOnUse" x1="1575.0039" y1="1668.3252" x2="1575.016" y2="3940.3359">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#FEFEFE"/>
+	</linearGradient>
+	<rect x="0.004" y="1330.357" clip-path="url(#XMLID_67_)" fill="url(#XMLID_68_)" width="3150" height="769.643"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M106.516,1504.657c0,0,46.747,58.263,50.133,62.328
+	c3.386,4.065-10.164,13.55-10.164,13.55c27.149,39.748,19.056,23.607,27.101,65.039c-8.13,0-25.067,0-25.067,0
+	s3.386,14.227,10.161,26.422c6.775,12.195,10.161,25.746,19.647,31.166c9.485,5.42,23.714,17.612,23.714,17.612l-25.069,5.42
+	l5.767,19.987l24.391,23.036l6.434,18.629l19.649,26.422l-0.673,21.681l-21.68-3.389l-20.664-2.031l8.81,19.646l46.068,53.872
+	c0,0,4.065,6.772,6.438,9.145c2.372,2.372,9.147,11.52,9.147,11.52l-23.714,3.044c0,0,16.933,17.619,24.387,21.681
+	c7.454,4.063,31.845,18.968,36.586,24.389c4.741,5.42,16.257,18.291,16.257,18.291l-46.744-4.741l5.414,33.873l-29.808,2.709
+	l18.292,22.357l42.679,17.621l11.516,23.036l-27.098-8.81l-10.164,10.84l14.18,10.998H0.004v-233.427l14.022-16.397l8.809-19.646
+	l-20.663,2.031l-2.168,0.339v-46.604l5.898-17.078l24.391-23.036l5.768-19.987l-25.07-5.42c0,0,14.229-12.192,23.714-17.612
+	c9.485-5.42,12.872-18.971,19.646-31.166c6.775-12.195,10.162-26.422,10.162-26.422s-16.936,0-25.067,0
+	c8.044-41.432-0.049-25.291,27.101-65.039c0,0-13.551-9.484-10.165-13.55S106.516,1504.657,106.516,1504.657"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M358.516,1828.657c0,0,46.747,58.264,50.133,62.328
+	c3.386,4.065-10.164,13.551-10.164,13.551c27.149,39.747,19.056,23.606,27.101,65.038c-8.13,0-25.067,0-25.067,0
+	s3.386,14.227,10.161,26.422c6.775,12.195,10.161,25.746,19.647,31.166c9.485,5.42,23.714,17.612,23.714,17.612l-25.069,5.42
+	l5.767,19.987l24.391,23.036l2.342,6.782H255.56l2.342-6.782l24.391-23.036l5.768-19.987l-25.07-5.42
+	c0,0,14.229-12.192,23.714-17.612c9.485-5.42,12.872-18.971,19.646-31.166c6.775-12.195,10.162-26.422,10.162-26.422
+	s-16.936,0-25.067,0c8.044-41.432-0.049-25.291,27.101-65.038c0,0-13.551-9.485-10.165-13.551
+	C311.769,1886.921,358.516,1828.657,358.516,1828.657"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M618.516,1744.657c0,0,46.747,58.263,50.133,62.328
+	c3.386,4.065-10.165,13.55-10.165,13.55c27.15,39.748,19.057,23.607,27.101,65.039c-8.13,0-25.066,0-25.066,0
+	s3.386,14.227,10.161,26.422s10.161,25.746,19.647,31.166c9.485,5.42,23.714,17.612,23.714,17.612l-25.069,5.42l5.768,19.987
+	l24.391,23.036l6.434,18.629l19.649,26.422l-0.673,21.681l-21.68-3.389l-20.664-2.031l8.81,19.646l8.401,9.824H517.625l8.401-9.824
+	l8.809-19.646l-20.663,2.031l-21.681,3.389l-0.673-21.681l19.65-26.422l6.434-18.629l24.391-23.036l5.767-19.987l-25.069-5.42
+	c0,0,14.229-12.192,23.714-17.612s12.872-18.971,19.646-31.166c6.775-12.195,10.162-26.422,10.162-26.422s-16.937,0-25.067,0
+	c8.044-41.432-0.049-25.291,27.101-65.039c0,0-13.551-9.484-10.165-13.55S618.516,1744.657,618.516,1744.657"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M922.517,1632.657c0,0,46.747,58.263,50.133,62.328
+	c3.386,4.065-10.164,13.55-10.164,13.55c27.149,39.748,19.056,23.607,27.101,65.039c-8.13,0-25.066,0-25.066,0
+	s3.386,14.227,10.161,26.422c6.775,12.195,10.161,25.746,19.647,31.166c9.485,5.42,23.714,17.612,23.714,17.612l-25.069,5.42
+	l5.767,19.987l24.391,23.036l6.435,18.629l19.649,26.422l-0.673,21.681l-21.681-3.389l-20.664-2.031l8.81,19.646l46.068,53.872
+	c0,0,4.065,6.772,6.438,9.145c2.372,2.372,9.147,11.52,9.147,11.52l-23.714,3.045c0,0,16.933,17.618,24.387,21.681
+	c6.732,3.668,27.275,16.18,34.686,22.563H733.015c7.41-6.383,27.954-18.895,34.686-22.563c7.454-4.063,24.387-21.681,24.387-21.681
+	l-23.714-3.045c0,0,6.775-9.147,9.147-11.52c2.372-2.372,6.437-9.145,6.437-9.145l46.068-53.872l8.809-19.646l-20.663,2.031
+	l-21.681,3.389l-0.672-21.681l19.65-26.422l6.434-18.629l24.391-23.036l5.767-19.987l-25.07-5.42c0,0,14.229-12.192,23.715-17.612
+	c9.485-5.42,12.872-18.971,19.646-31.166c6.775-12.195,10.162-26.422,10.162-26.422s-16.936,0-25.067,0
+	c8.044-41.432-0.049-25.291,27.102-65.039c0,0-13.551-9.484-10.165-13.55S922.517,1632.657,922.517,1632.657"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1526.517,1869.78c0,0,17.062,21.265,18.298,22.749
+	c1.236,1.483-3.71,4.945-3.71,4.945c9.909,14.508,6.955,8.616,9.891,23.738c-2.967,0-9.149,0-9.149,0s1.236,5.192,3.709,9.644
+	s3.708,9.396,7.171,11.375c3.461,1.979,8.655,6.428,8.655,6.428l-9.15,1.979l2.105,7.295l8.902,8.408l2.348,6.799l7.172,9.644
+	l-0.246,7.913l-7.913-1.236l-7.542-0.741l3.215,7.17l16.814,19.663c0,0,1.483,2.472,2.35,3.337c0.865,0.866,3.339,4.205,3.339,4.205
+	l-8.656,1.111c0,0,6.18,6.431,8.901,7.913s11.623,6.923,13.354,8.901c1.73,1.978,5.934,6.676,5.934,6.676l-17.061-1.73l1.976,12.363
+	l-10.879,0.988l6.676,8.16l15.577,6.432l4.203,8.408l-9.891-3.216l-3.709,3.956l12.116,9.397l5.78,7.546h-161.162l5.78-7.546
+	l12.116-9.397l-3.71-3.956l-9.89,3.216l4.203-8.408l15.577-6.432l6.676-8.16l-10.879-0.988l1.976-12.363l-17.061,1.73
+	c0,0,4.203-4.698,5.934-6.676c1.73-1.979,10.633-7.419,13.354-8.901c2.72-1.482,8.9-7.913,8.9-7.913l-8.655-1.111
+	c0,0,2.473-3.339,3.339-4.205c0.866-0.865,2.349-3.337,2.349-3.337l16.814-19.663l3.216-7.17l-7.542,0.741l-7.913,1.236
+	l-0.246-7.913l7.172-9.644l2.348-6.799l8.902-8.408l2.104-7.295l-9.149-1.979c0,0,5.193-4.449,8.655-6.428s4.698-6.924,7.171-11.375
+	c2.473-4.451,3.708-9.644,3.708-9.644s-6.182,0-9.149,0c2.936-15.122-0.018-9.23,9.892-23.738c0,0-4.946-3.462-3.71-4.945
+	C1509.454,1891.045,1526.517,1869.78,1526.517,1869.78"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1946.517,1804.657c0,0,46.747,58.263,50.133,62.328
+	c3.387,4.065-10.164,13.551-10.164,13.551c27.149,39.747,19.057,23.606,27.101,65.038c-8.13,0-25.066,0-25.066,0
+	s3.387,14.227,10.161,26.422c6.775,12.195,10.161,25.746,19.646,31.166s23.715,17.612,23.715,17.612l-25.069,5.42l5.768,19.987
+	l24.39,23.036l6.435,18.63l9.038,12.152h-232.172l9.038-12.152l6.434-18.63l24.392-23.036l5.767-19.987l-25.069-5.42
+	c0,0,14.229-12.192,23.715-17.612s12.871-18.971,19.646-31.166c6.774-12.195,10.161-26.422,10.161-26.422s-16.937,0-25.066,0
+	c8.044-41.432-0.05-25.291,27.101-65.038c0,0-13.551-9.485-10.164-13.551C1899.77,1862.92,1946.517,1804.657,1946.517,1804.657"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2486.517,1916.657c0,0,46.747,58.263,50.134,62.328
+	c3.386,4.065-10.165,13.55-10.165,13.55c27.149,39.748,19.057,23.607,27.101,65.039c-8.13,0-25.066,0-25.066,0
+	s3.387,14.227,10.161,26.422c2.967,5.34,5.284,10.94,7.748,16.004h-119.823c2.463-5.063,4.78-10.664,7.747-16.004
+	c6.774-12.195,10.161-26.422,10.161-26.422s-16.937,0-25.066,0c8.044-41.432-0.05-25.291,27.101-65.039
+	c0,0-13.551-9.484-10.164-13.55C2439.77,1974.92,2486.517,1916.657,2486.517,1916.657"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3042.518,1752.657c0,0,46.746,58.263,50.133,62.328
+	c3.386,4.065-10.164,13.55-10.164,13.55c27.149,39.748,19.056,23.607,27.1,65.039c-8.13,0-25.066,0-25.066,0
+	s3.387,14.227,10.162,26.422c6.774,12.195,10.16,25.746,19.646,31.166c9.484,5.42,23.714,17.612,23.714,17.612l-25.069,5.42
+	l5.768,19.987l24.391,23.036l6.434,18.629l0.439,0.59v44.615l-3.143-0.491l-20.664-2.031l8.81,19.646l1.561,1.824h-188.101
+	l1.561-1.824l8.809-19.646l-20.663,2.031l-21.681,3.389l-0.673-21.681l19.649-26.422l6.434-18.629l24.392-23.036l5.767-19.987
+	l-25.069-5.42c0,0,14.229-12.192,23.715-17.612s12.872-18.971,19.646-31.166s10.161-26.422,10.161-26.422s-16.936,0-25.066,0
+	c8.044-41.432-0.049-25.291,27.101-65.039c0,0-13.551-9.484-10.164-13.55C2995.77,1810.92,3042.518,1752.657,3042.518,1752.657"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2796.949,1837.318c0,0,29.987,37.376,32.159,39.983
+	c2.173,2.608-6.521,8.693-6.521,8.693c17.417,25.497,12.225,15.144,17.386,41.722c-5.216,0-16.08,0-16.08,0
+	s2.172,9.126,6.519,16.949c4.346,7.823,6.518,16.516,12.604,19.992c6.084,3.478,15.212,11.299,15.212,11.299l-16.082,3.477
+	l3.7,12.822l15.646,14.777l4.127,11.95l12.605,16.95l-0.432,13.908l-13.908-2.175l-13.256-1.303l5.651,12.603l29.553,34.56
+	c0,0,2.607,4.345,4.13,5.866c0.158,0.158,0.348,0.365,0.561,0.607h-187.149c0.212-0.242,0.402-0.449,0.562-0.607
+	c1.521-1.521,4.129-5.866,4.129-5.866l29.553-34.56l5.65-12.603l-13.255,1.303l-13.909,2.175l-0.431-13.908l12.605-16.95
+	l4.127-11.95l15.646-14.777l3.7-12.822l-16.082-3.477c0,0,9.128-7.821,15.213-11.299c6.084-3.477,8.257-12.169,12.603-19.992
+	c4.347-7.823,6.519-16.949,6.519-16.949s-10.864,0-16.08,0c5.16-26.578-0.031-16.225,17.385-41.722c0,0-8.692-6.085-6.521-8.693
+	C2766.961,1874.694,2796.949,1837.318,2796.949,1837.318"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2180.949,1893.318c0,0,29.987,37.376,32.159,39.983
+	c2.173,2.608-6.52,8.692-6.52,8.692c17.416,25.498,12.225,15.145,17.385,41.723c-5.216,0-16.08,0-16.08,0s2.172,9.126,6.519,16.949
+	c4.346,7.823,6.518,16.516,12.603,19.992c6.085,3.478,15.213,11.299,15.213,11.299l-16.082,3.477l3.7,12.822l15.646,14.777
+	l4.127,11.95l12.605,16.95l-0.25,8.066h-162.052l-0.25-8.066l12.605-16.95l4.127-11.95l15.646-14.777l3.7-12.822l-16.082-3.477
+	c0,0,9.128-7.821,15.213-11.299c6.084-3.477,8.257-12.169,12.603-19.992c4.347-7.823,6.519-16.949,6.519-16.949s-10.864,0-16.08,0
+	c5.16-26.578-0.031-16.225,17.385-41.723c0,0-8.692-6.084-6.521-8.692C2150.961,1930.694,2180.949,1893.318,2180.949,1893.318"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1752.214,1854.257c0,0,29.988,37.376,32.16,39.983s-6.521,8.692-6.521,8.692
+	c17.416,25.498,12.225,15.144,17.385,41.722c-5.215,0-16.079,0-16.079,0s2.172,9.127,6.518,16.949
+	c4.347,7.823,6.519,16.516,12.604,19.993c6.084,3.478,15.213,11.298,15.213,11.298l-16.082,3.478l3.699,12.821l15.646,14.777
+	l4.128,11.951l12.605,16.949l-0.432,13.908l-13.908-2.174l-13.256-1.304l5.651,12.604l20.604,24.095h-159.871l20.604-24.095
+	l5.651-12.604l-13.255,1.304l-13.909,2.174l-0.432-13.908l12.605-16.949l4.128-11.951l15.646-14.777l3.699-12.821l-16.082-3.478
+	c0,0,9.128-7.82,15.213-11.298s8.257-12.17,12.603-19.993c4.347-7.822,6.519-16.949,6.519-16.949s-10.864,0-16.079,0
+	c5.16-26.578-0.032-16.224,17.385-41.722c0,0-8.693-6.085-6.521-8.692C1722.226,1891.633,1752.214,1854.257,1752.214,1854.257"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1271.077,1675.66c0,0,29.988,37.375,32.16,39.983
+	c2.172,2.608-6.521,8.692-6.521,8.692c17.417,25.498,12.225,15.144,17.385,41.722c-5.215,0-16.08,0-16.08,0
+	s2.172,9.127,6.519,16.949c4.346,7.823,6.518,16.517,12.604,19.993c6.084,3.478,15.212,11.299,15.212,11.299l-16.082,3.477
+	l3.699,12.821l15.646,14.778l4.128,11.95l12.605,16.949l-0.432,13.908l-13.908-2.174l-13.256-1.304l5.651,12.604l29.552,34.56
+	c0,0,2.608,4.344,4.13,5.865c1.521,1.522,5.868,7.39,5.868,7.39l-15.213,1.953c0,0,10.863,11.303,15.645,13.908
+	c4.782,2.606,20.428,12.168,23.47,15.645c3.042,3.478,10.429,11.734,10.429,11.734l-29.986-3.042l3.473,21.729l-19.122,1.738
+	l11.734,14.342l27.378,11.305l7.388,14.776l-17.383-5.65l-6.52,6.954l21.296,16.516l15.646,20.426l4.951,12.543H1119.01
+	l4.951-12.543l15.646-20.426l21.296-16.516l-6.521-6.954l-17.383,5.65l7.388-14.776l27.378-11.305l11.734-14.342l-19.122-1.738
+	l3.473-21.729l-29.986,3.042c0,0,7.387-8.257,10.429-11.734c3.042-3.477,18.688-13.038,23.47-15.645
+	c4.782-2.605,15.645-13.908,15.645-13.908l-15.213-1.953c0,0,4.346-5.867,5.868-7.39c1.521-1.521,4.129-5.865,4.129-5.865
+	l29.553-34.56l5.651-12.604l-13.255,1.304l-13.909,2.174l-0.432-13.908l12.605-16.949l4.127-11.95l15.647-14.778l3.699-12.821
+	l-16.082-3.477c0,0,9.128-7.821,15.213-11.299c6.084-3.477,8.257-12.17,12.603-19.993c4.347-7.822,6.519-16.949,6.519-16.949
+	s-10.865,0-16.08,0c5.16-26.578-0.032-16.224,17.385-41.722c0,0-8.692-6.084-6.521-8.692
+	C1241.089,1713.035,1271.077,1675.66,1271.077,1675.66"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2628.082,2007.55c0,0,23.572,29.379,25.279,31.429
+	c1.708,2.05-5.125,6.833-5.125,6.833c13.69,20.042,9.609,11.903,13.666,32.795c-4.1,0-12.641,0-12.641,0s1.708,7.174,5.124,13.323
+	c1.496,2.693,2.665,5.517,3.907,8.07h-60.422c1.243-2.554,2.411-5.377,3.907-8.07c3.416-6.149,5.124-13.323,5.124-13.323
+	s-8.54,0-12.641,0c4.057-20.892-0.024-12.753,13.666-32.795c0,0-6.832-4.783-5.125-6.833S2628.082,2007.55,2628.082,2007.55"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2330.582,2007.55c0,0,23.571,29.379,25.279,31.429
+	c1.707,2.05-5.125,6.833-5.125,6.833c13.689,20.042,9.608,11.903,13.665,32.795c-4.1,0-12.64,0-12.64,0s1.707,7.174,5.123,13.323
+	c1.496,2.693,2.665,5.517,3.907,8.07h-60.421c1.242-2.554,2.41-5.377,3.906-8.07c3.417-6.149,5.124-13.323,5.124-13.323
+	s-8.54,0-12.64,0c4.057-20.892-0.024-12.753,13.666-32.795c0,0-6.833-4.783-5.126-6.833
+	C2307.01,2036.929,2330.582,2007.55,2330.582,2007.55"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2395.666,2045.574c0,0,13.877,17.296,14.883,18.502
+	c1.004,1.207-3.018,4.022-3.018,4.022c8.059,11.8,5.656,7.008,8.045,19.308c-2.414,0-7.441,0-7.441,0s1.006,4.223,3.017,7.843
+	c0.88,1.586,1.568,3.248,2.3,4.751h-35.57c0.731-1.503,1.419-3.165,2.3-4.751c2.012-3.62,3.017-7.843,3.017-7.843s-5.027,0-7.441,0
+	c2.389-12.3-0.014-7.508,8.045-19.308c0,0-4.022-2.815-3.017-4.022C2381.789,2062.87,2395.666,2045.574,2395.666,2045.574"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1639.582,2045.574c0,0,13.876,17.296,14.882,18.502
+	c1.005,1.207-3.018,4.022-3.018,4.022c8.06,11.8,5.657,7.008,8.045,19.308c-2.413,0-7.44,0-7.44,0s1.005,4.223,3.016,7.843
+	c0.881,1.586,1.568,3.248,2.3,4.751h-35.569c0.731-1.503,1.419-3.165,2.3-4.751c2.011-3.62,3.017-7.843,3.017-7.843
+	s-5.028,0-7.441,0c2.388-12.3-0.015-7.508,8.045-19.308c0,0-4.022-2.815-3.018-4.022
+	C1625.705,2062.87,1639.582,2045.574,1639.582,2045.574"/>
+</svg>
