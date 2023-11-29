@@ -88,7 +88,6 @@ export const useGptStore = defineStore("gpt", {
         this.loadingDoc = true;
         this.result = '';
         this.prompts = this.aiMoodLightPrompt
-        console.log(this.key)
         const response = await fetch("https://api.openai.com/v1/chat/completions", {
           method: "post",
           headers: {
@@ -108,6 +107,7 @@ export const useGptStore = defineStore("gpt", {
 
         const reader = response.body.getReader();
         await this.readStream(reader, response.status);
+
         console.log(this.result)
         this.resultJson = JSON.parse(this.result)
         console.log(this.resultJson)
