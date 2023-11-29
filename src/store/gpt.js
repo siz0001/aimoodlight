@@ -88,6 +88,7 @@ export const useGptStore = defineStore("gpt", {
         this.loadingDoc = true;
         this.result = '';
         this.prompts = this.aiMoodLightPrompt
+        console.log("메시지 :"+ message)
         const response = await fetch("https://api.openai.com/v1/chat/completions", {
           method: "post",
           headers: {
