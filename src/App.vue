@@ -54,6 +54,7 @@ onMounted(() => {
       describe.value += transcript;
     }
     console.log(describe.value)
+    gptStore.reqChatstream(describe.value)
   };
 
   recognition.value.onstart = function () {
@@ -62,8 +63,7 @@ onMounted(() => {
   }
   recognition.value.onspeechend = async function () {
     speaking.value = false
-    gptStore.reqChatstream(describe.value)
-
+    
   }
   recognition.value.onerror = function (event) {
     if (event.error == 'no-speech') {
