@@ -83,7 +83,7 @@ export const useGptStore = defineStore("gpt", {
       }
     },
     async reqChatstream(message) {
-
+      console.log("메시지 :"+ message)
       try {
         this.loadingDoc = true;
         this.result = '';
