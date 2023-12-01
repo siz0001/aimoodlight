@@ -87,6 +87,7 @@ export const useGptStore = defineStore("gpt", {
       try {
         this.loadingDoc = true;
         this.result = '';
+        this.aiMoodLightPrompt = [...this.aiMoodLightPrompt, { role: "user", content: message }]
         this.prompts = this.aiMoodLightPrompt
         console.log("메시지 :"+ message)
         const response = await fetch("https://api.openai.com/v1/chat/completions", {
@@ -98,10 +99,7 @@ export const useGptStore = defineStore("gpt", {
           body: JSON.stringify({
             model: "gpt-3.5-turbo",
             stream: true,
-            messages: [
-              ...this.prompts,
-              { role: "user", content: message },
-            ],
+            messages: this.prompts,
           }),
         });
         console.log(response.body)
@@ -115,6 +113,7 @@ export const useGptStore = defineStore("gpt", {
         this.resultCommand = '1'.concat(this.resultJson.colorR.padStart(3, "0"), this.resultJson.colorG.padStart(3, "0"), this.resultJson.colorB.padStart(3, "0"), this.resultJson.brightness.padStart(3, "0"), this.resultJson.blinkSpeed.padStart(3, "0"))
         console.log(this.resultCommand)
         set(storageRef(rdb, 'Controller/' + this.id + '/ledData'), this.resultCommand)
+        this.aiMoodLightPrompt =  [...this.aiMoodLightPrompt, { role: "assistant", content: this.result }]
         this.loadingDoc = false;
       } catch (error) {
         console.log(error);
