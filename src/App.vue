@@ -88,7 +88,7 @@ const selectedController = ref({
   <v-img :src="selectedBg" height="100vh" cover eager style="background-color:black">
     <v-container class="fill-height pa-0" fluid justify="center">
 
-      <v-card color="#00000050" class="text-white text-center mx-auto pt-4 pa-2" flat width="400"
+      <v-card color="#00000050" class="text-white text-center mx-auto pt-4 pa-2 ma-2" flat width="400"
         style="font-size:3vh; border: 3px solid white; border-radius: 17px">
         🔮
         <v-card-title style="font-size: 30px">AI무드등 컨트롤러</v-card-title>
@@ -101,7 +101,7 @@ const selectedController = ref({
           {{ describe ? describe : "💬 말로 지시해 보세요 :)" }}
         </v-card-text>
         <v-card-text>
-          <v-card v-if="gptStore.resultJson"
+          <v-card v-if="gptStore.resultJson" class="pa-1" rounded="lg"
             :style='`font-size: 15px; width : 100%; background-color : rgb(${gptStore.resultJson.colorR}, ${gptStore.resultJson.colorG}, ${gptStore.resultJson.colorB})`'>
             <v-chip color="red" class="mx-1" size="large">R {{ gptStore.resultJson.colorR }} </v-chip>
             <v-chip color="green" class="mx-1" size="large">G {{ gptStore.resultJson.colorG }} </v-chip>
