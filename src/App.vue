@@ -101,7 +101,7 @@ const selectedController = ref({
           {{ describe ? describe : "💬 말로 지시해 보세요 :)" }}
         </v-card-text>
         <v-card-text>
-          <v-card v-if="gptStore.resultJson" class="pa-1" rounded="lg"
+          <v-card v-if="gptStore.resultJson" class="pt-2 px-1" rounded="lg"
             :style='`font-size: 15px; width : 100%; background-color : rgb(${gptStore.resultJson.colorR}, ${gptStore.resultJson.colorG}, ${gptStore.resultJson.colorB})`'>
             <v-chip color="red" class="mx-1" size="large">R {{ gptStore.resultJson.colorR }} </v-chip>
             <v-chip color="green" class="mx-1" size="large">G {{ gptStore.resultJson.colorG }} </v-chip>
