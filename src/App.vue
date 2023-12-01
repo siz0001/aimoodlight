@@ -97,7 +97,7 @@ const selectedController = ref({
           class="pt-2 mx-2" :items="controllers" item-title="ID" return-object outlined dark height="7vh" color="white"
           style="font-size: 1.5rem" @update:model-value="changeController">
         </v-select>
-        <v-card-text class="text-start" style="font-size: 30px">
+        <v-card-text class="text-start" style="font-size: 30px; line-height: 35px;">
           {{ describe ? describe : "💬 말로 지시해 보세요 :)" }}
         </v-card-text>
         <v-card-text>
