@@ -40,7 +40,6 @@ export const useGptStore = defineStore("gpt", {
         url: "https://ipv4.seeip.org/jsonip",
       })
         .then((res) => {
-          console.log(res.data);
           this.physicalIP = res.data.ip;
         })
     },
@@ -83,13 +82,11 @@ export const useGptStore = defineStore("gpt", {
       }
     },
     async reqChatstream(message) {
-      console.log("메시지 :"+ message)
       try {
         this.loadingDoc = true;
         this.result = '';
         this.aiMoodLightPrompt = [...this.aiMoodLightPrompt, { role: "user", content: message }]
         this.prompts = this.aiMoodLightPrompt
-        console.log("메시지 :"+ message)
         const response = await fetch("https://api.openai.com/v1/chat/completions", {
           method: "post",
           headers: {
@@ -102,16 +99,10 @@ export const useGptStore = defineStore("gpt", {
             messages: this.prompts,
           }),
         });
-        console.log(response.body)
-
         const reader = response.body.getReader();
         await this.readStream(reader, response.status);
-
-        console.log(this.result)
         this.resultJson = JSON.parse(this.result)
-        console.log(this.resultJson)
         this.resultCommand = '1'.concat(this.resultJson.colorR.padStart(3, "0"), this.resultJson.colorG.padStart(3, "0"), this.resultJson.colorB.padStart(3, "0"), this.resultJson.brightness.padStart(3, "0"), this.resultJson.blinkSpeed.padStart(3, "0"))
-        console.log(this.resultCommand)
         set(storageRef(rdb, 'Controller/' + this.id + '/ledData'), this.resultCommand)
         this.aiMoodLightPrompt =  [...this.aiMoodLightPrompt, { role: "assistant", content: this.result }]
         this.loadingDoc = false;

@@ -27,14 +27,11 @@ if (localStorage.id) {
 gptStore.getPhysicalIP()
 
 onMounted(() => {
-  // console.log(import.meta.env.VITE_API_KEY)
+  
   get(child(storageRef(rdb), 'Controller')).then((snapshot) => {
     if (snapshot.exists()) {
-      console.log(snapshot.val());
-      console.log(gptStore.physicalIP)
       const data = snapshot.val();
       controllers.value = filter(data, { PhysicalIP: gptStore.physicalIP });
-      console.log(controllers.value)
     } else {
       console.log("No data available");
     }
@@ -42,9 +39,7 @@ onMounted(() => {
     console.error(error);
   });
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition
-  console.log(SpeechRecognition)
   recognition.value = new SpeechRecognition()
-  console.log(recognition.value)
   recognition.value.continuous = false;
   recognition.value.onresult = function (event) {
     var current = event.resultIndex;
@@ -53,7 +48,6 @@ onMounted(() => {
     if (!mobileRepeatBug) {
       describe.value += transcript;
     }
-    console.log(describe.value)
     gptStore.reqChatstream(describe.value)
   };
 
