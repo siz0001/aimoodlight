@@ -26,7 +26,6 @@ export const useGptStore = defineStore("gpt", {
       { role: "assistant", content: '{"colorR": "200", "colorG": "120", "colorB": "0", "brightness": "200", "blinkSpeed" : "10" }' },
       { role: "user", content: "등을 꺼줘" },
       { role: "assistant", content: '{"colorR": "0", "colorG": "0", "colorB": "0", "brightness": "0", "blinkSpeed" : "0" }' },
-
     ],
     decoder: new TextDecoder("utf-8")
   }),
@@ -45,14 +44,11 @@ export const useGptStore = defineStore("gpt", {
     },
     async readStream(reader, status) {
       let partialLine = "";
-
       while (true) {
         // eslint-disable-next-line no-await-in-loop
         const { value, done } = await reader.read();
         if (done) break;
-
         const decodedText = this.decoder.decode(value, { stream: true });
-
         if (status !== 200) {
           const json = JSON.parse(decodedText); // start with "data: "
           const content = json.error.message ?? decodedText;
@@ -60,12 +56,9 @@ export const useGptStore = defineStore("gpt", {
 
           return;
         }
-
         const chunk = partialLine + decodedText;
         const newLines = chunk.split(/\r?\n/);
-
         partialLine = newLines.pop() ?? "";
-
         for (const line of newLines) {
           if (line.length === 0) continue; // ignore empty message
           if (line.startsWith(":")) continue; // ignore sse comment message
@@ -112,13 +105,11 @@ export const useGptStore = defineStore("gpt", {
       } finally {
         console.log("수신완료");
       }
-
     },
     async getKey() {
       try {
         const docRef = doc(db, "key", "key");
         const docSnap = await getDoc(docRef);
-
         if (!docSnap.exists()) {
           throw new Error("No existe la todo");
         }
